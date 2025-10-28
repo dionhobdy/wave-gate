@@ -1,0 +1,2 @@
+Add a .wav file titled audio.wav in this folder.
+Add a .png file titled album.png in this folder.
